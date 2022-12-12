@@ -1,7 +1,7 @@
 /*
 Your solution may ONLY use the C++ header files listed below
 program: A2main.cpp
-author:  danny abesdris
+author:  zaryab
 date:    november 15, 2022
 purpose: C++ main( ) program for PRG355 Fall 2022 assignment #2
 */
