@@ -9,6 +9,7 @@ purpose: C++ main( ) program for PRG355 Fall 2022 assignment #2
 
 #include <iostream>
 #include <cstring>
+#include <cstdlib>
 #include <new>
 using namespace std;
 
