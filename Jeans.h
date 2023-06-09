@@ -6,7 +6,7 @@
 
 using namespace std;
 
-enum class Jeans_colors {white, black, blue, grey};
+enum class Jeans_colors {white, black, blue, grey, brown};
 enum class Jeans_sizes {small, medium, large, xlarge};
 
 class Jeans{
