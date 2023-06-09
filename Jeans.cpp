@@ -47,7 +47,9 @@ ostream& operator<<(ostream& os, const Jeans& sb)
         os << "blue, ";
     else if (color == Jeans_colors::grey)
         os << "grey, ";
-
+    else if (color == Jeans_colors::brown)
+        os << "brown, ";
+    
     if (size == Jeans_sizes::xlarge) 
         os << "xlarge)";
     else if (size == Jeans_sizes::large)
